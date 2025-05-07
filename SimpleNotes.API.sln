@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleNotes.API", "SimpleNotes.API\SimpleNotes.API.csproj", "{995FB203-217D-4257-B32F-A28DC2EA13DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleNotes.Tests", "SimpleNotes.Tests\SimpleNotes.Tests.csproj", "{B561B20F-5363-4949-9C2D-D6BF1A996961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{995FB203-217D-4257-B32F-A28DC2EA13DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{995FB203-217D-4257-B32F-A28DC2EA13DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{995FB203-217D-4257-B32F-A28DC2EA13DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{995FB203-217D-4257-B32F-A28DC2EA13DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B561B20F-5363-4949-9C2D-D6BF1A996961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B561B20F-5363-4949-9C2D-D6BF1A996961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B561B20F-5363-4949-9C2D-D6BF1A996961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B561B20F-5363-4949-9C2D-D6BF1A996961}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
